@@ -25,7 +25,7 @@
 
 * F&A
 
-* Permissions
+* [Permissions](https://github.com/Cd-corgi/OtterBot-Docs/blob/commands/README.md#permissions-guides)
 
 * Support
 

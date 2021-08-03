@@ -30,3 +30,12 @@ READ_MESSAGE_HISTORY / can read the older messages of the server
 
 ## General
 
+* [] optional <> required
+
+```
+ottr.join / botP "SEND_MESSAGES", "EMBED_LINKS" / userP "SEND_MESSAGES"
+ottr.weather <location> / botP "SEND_MESSAGES", "EMBED_LINKS" / userP "SEND_MESSAGES"
+ottr.vote / botP "SEND_MESSAGES", "EMBED_LINKS" / userP "SEND_MESSAGES"
+ottr.help / botP "SEND_MESSAGES", "MANAGE_MESSAGES", "EMBED_LINKS" / userP "SEND_MESSAGES"
+```
+

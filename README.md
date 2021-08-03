@@ -21,7 +21,7 @@
 
 ### Index
 
-* Commands
+* [Commands](https://github.com/Cd-corgi/OtterBot-Docs/blob/commands/README.md#commands)
 
 * F&A
 
